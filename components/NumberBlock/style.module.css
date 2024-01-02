@@ -1,0 +1,20 @@
+.numbers {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: stretch;
+    font-weight: bold;
+    font-size: 7rem;
+    background: rgba(255, 255, 255, 1);
+    border-radius: 10px;
+}
+
+.block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    color: #c43434;
+    width: 110px;
+    text-align: center;
+}
